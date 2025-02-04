@@ -15,16 +15,19 @@ travelparty: Hilke, Laura, Elia, Flo, Zorya + Kinderbetreuung
 - Schluss: 23 Uhr
 
 ## 2025.02.09 Baden PA Probe
+Stanzerei, Bruggerstrasse 37, 5400 Baden
 
 - 9:00 Hilke öffnet für Pianostimmer
 - 10:00 Ankunft Flo
 - 14:00 Ankunft Laura
 
 ## 2025.02.10 Baden Videodreh
+Stanzerei, Bruggerstrasse 37, 5400 Baden
 
 20:00 Start Videodreh
 
 ## 2025.02.11 Baden OOAM Konzert
+Stanzerei, Bruggerstrasse 37, 5400 Baden
 
 official OOAM time schedule:
 
