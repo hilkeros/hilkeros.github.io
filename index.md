@@ -35,3 +35,13 @@ official OOAM time schedule:
 - 20:35 end of set
 - 21:00 dinner
 - 21:30 interview Hilke @ Radio 3fach
+
+## 2025.03.13 Thun Mokka
+
+## 2025.04.03 Bern ISC
+
+## 2025.04.04 Zürich Bogen F
+
+## 2025.04.17 Luzern Neubad
+
+## 2025.11.21 Aarau Kiff
