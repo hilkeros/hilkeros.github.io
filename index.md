@@ -1,30 +1,30 @@
 # hilke team
 
 
-## 2025.02.05 St. Gallen
-
-travelparty: Hilke, Laura, Elia, Flo, Zorya + Kinderbetreuung
-
-- 16:03 Zürich HB, Gleiss 33
-- 17:02 St. Gallen, Gleis 2
-- Get in: 17.00 Uhr
-- Soundcheck: 18 Uhr
-- Dinner: 19 Uhr
-- Türöffnung: 20.30 Uhr
-- Show: 21 Uhr
-- Schluss: 23 Uhr
-
 ## 2025.02.09 Baden PA Probe
 Stanzerei, Bruggerstrasse 37, 5400 Baden
 
 - 9:00 Hilke öffnet für Pianostimmer
 - 10:00 Ankunft Flo
 - 14:00 Ankunft Laura
+- etwa 18:00? ende
 
 ## 2025.02.10 Baden Videodreh
 Stanzerei, Bruggerstrasse 37, 5400 Baden
 
-20:00 Start Videodreh
+- 17:00: Ankunft video crew Michi & Paul
+- 17:00 - 19:30: Aufbau, Licht- & Kamera-Setup
+- 18:00: Andi, Lichtanpassungen fürs Video.
+Ich denke, es macht Sinn, dass er zuerst die Showlampen nach seinem Gusto aufhängt. Fürs Video habe ich die Erfahrung gemacht, dass ein reduzierteres Lichtsetup meist besser aussieht.
+
+Wahrscheinlich wird also bereits mehr Licht hängen, und Michi und ich können dann mit Andi gezielt anschauen, welche Einstellungen fürs Videobild am besten funktionieren.
+
+- 19:15: Laura
+- 20:00: Drehbeginn
+- 20:00 - 22:00: Aufnahme der zwei Songs
+- 22:00 - 22:45: Abbau
+
+Ich werde Sachen wie Brot, Humus, Snacks vorsehen für einen kurzen Znacht zwischendurch.
 
 ## 2025.02.11 Baden OOAM Konzert
 Stanzerei, Bruggerstrasse 37, 5400 Baden
