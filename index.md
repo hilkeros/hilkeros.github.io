@@ -11,4 +11,6 @@
 
 ## 2025.09.26 Kriens Südpol
 
+## 2025.11.20 Winterthur Albani
+
 ## 2025.11.21 Aarau Kiff
