@@ -7,7 +7,7 @@
 - 16:34 Abfahrt Hilke Bern -> Thun (IC 61)
 
 - 15:30 get-in & setup Gina Été
--16:30 soundcheck Gina Été
+- 16:30 soundcheck Gina Été
 - 17:30 load-in & setup Hilke
 - 18:00 soundcheck Hilke
 - 19:00 dinner (inhouse)
