@@ -3,11 +3,11 @@
 
 ## 2025.09.26 Kriens Südpol
 
-16:00 Get-In
-16:30 Soundcheck
-18:00 Doors
-18:30 Dinner
-20:30 Show
+- 16:00 Get-In
+- 16:30 Soundcheck
+- 18:00 Doors
+- 18:30 Dinner
+- 20:30 Show
 
 ## 2025.10.23 Zürich Helsinki
 
@@ -15,7 +15,8 @@ Doppelkonzert mit Claude Bühler
 
 ## 2025.11.07 Laufenburg Rehmann Museum (in negotation)
 
-Opening Ausstellung, Technik und in Abklärung, Flügel vor Ort. PA muss gemietet werden.
+Opening Ausstellung, Flügel vor Ort.
+- 19:00 Show
 
 ## 2025.11.13 Lyss KUFA
 
@@ -32,7 +33,7 @@ support Gina Eté
 ## 2025.12.06 Solothurn Kreuzkultur
 
 support Long Tall Jefferson
-17:00 Soundcheck
-18:00 Dinner
-20:00 Doors
-20:30 Show (30 Minuten)
+- 17:00 Soundcheck
+- 18:00 Dinner
+- 20:00 Doors
+- 20:30 Show (30 Minuten)
