@@ -3,7 +3,11 @@
 
 ## 2025.09.26 Kriens Südpol
 
-Flo verfügbar
+16:00 Get-In
+16:30 Soundcheck
+18:00 Doors
+18:30 Dinner
+20:30 Show
 
 ## 2025.10.23 Zürich Helsinki
 
@@ -27,4 +31,8 @@ support Gina Eté
 
 ## 2025.12.06 Solothurn Kreuzkultur
 
-support Long Tall Jfefferson
+support Long Tall Jefferson
+17:00 Soundcheck
+18:00 Dinner
+20:00 Doors
+20:30 Show (30 Minuten)
