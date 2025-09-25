@@ -3,10 +3,10 @@
 
 ## 2025.09.26 Kriens Südpol
 
-- 16:00 Get-In
-- 16:30 Soundcheck
-- 18:00 Doors
-- 18:30 Dinner
+- 16:30 Get-In
+- ab 17:00 Dinner
+- 18:00 Soundcheck
+- 20:00 Doors
 - 20:30 Show
 
 ## 2025.10.23 Zürich Helsinki
